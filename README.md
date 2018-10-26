@@ -16,7 +16,7 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 
 ### First step. Give a name to your coin
 
-**Good name must be unique.** Check uniqueness with [google](http://google.com) and [Map of Coins](mapofcoins.com) or any other similar service.
+**Good name should be unique.** Check uniqueness with [google](http://google.com) and [Map of Coins](mapofcoins.com) or any other similar service.
 
 Name must be specified twice:
 
