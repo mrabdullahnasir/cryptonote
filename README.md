@@ -61,7 +61,7 @@ const unsigned EMISSION_SPEED_FACTOR = 18;
 
 **3. Difficulty target** (src/CryptoNoteConfig.h)
 
-Difficulty target is an ideal time period between blocks. In case an average time between blocks becomes less than difficulty target, the difficulty increases. Difficulty target is measured in seconds.
+Difficult target is an ideal time period between blocks. In case an average time between blocks becomes less than difficulty target, the difficulty increases. Difficulty target is measured in seconds.
 
 Difficulty target directly influences several aspects of coin's behavior:
 
