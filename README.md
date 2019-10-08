@@ -59,7 +59,7 @@ Example:
 const unsigned EMISSION_SPEED_FACTOR = 18;
 ```
 
-**3. Difficulty target** (src/CryptoNoteConfig.h)
+**3. Difficulty target goal** (src/CryptoNoteConfig.h)
 
 Difficulty target is an ideal time period between blocks. In case an average time between blocks becomes less than difficulty target, the difficulty increases. Difficulty target is measured in seconds.
 
